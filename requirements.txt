@@ -1,0 +1,8 @@
+pytest
+requests
+pydantic
+allpairspy
+Faker
+xmltodict
+cerberus
+jsonschema
